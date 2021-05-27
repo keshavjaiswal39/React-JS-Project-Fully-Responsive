@@ -7,7 +7,7 @@ video {
   }
   
   .hero-container {
-    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    /* background: url('images/img-1.jpg') center center cover no-repeat; */
     height: 100vh;
     width: 100%;
     display: flex;
@@ -31,7 +31,7 @@ video {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
       'Lucida Sans', Arial, sans-serif;
   }
-
+  
   .hero-btns {
     margin-top: 32px;
   }
